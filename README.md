@@ -17,7 +17,7 @@ The application is a 1D thermal analysis tool for cooling fins. It numerically s
 
 # Installation
 1. Clone the repository
-- git clone https://github.com/YOUR_USERNAME/ThermalFinAnalyzer.git
+- git clone https://github.com/MatthewWitczak/ThermalFinAnalyzer.git
 - cd ThermalFinAnalyzer
 
 2. Install dependencies  
