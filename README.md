@@ -12,8 +12,8 @@ The application is a 1D thermal analysis tool for cooling fins. It numerically s
 - About dialog with project description
 
 # Screenshots
-<img width="1398" height="883" alt="Preview_1" src="https://github.com/user-attachments/assets/f71b828f-6689-4fc4-8c00-c335c19bd042" />
-<img width="1398" height="883" alt="Preview_2" src="https://github.com/user-attachments/assets/ca9436de-c456-4f37-a5fa-bdc4c14dcd86" />
+<img width="1331" height="875" alt="Preview_1" src="https://github.com/user-attachments/assets/49accd1e-691b-4c2e-acd2-32424f12eb2c" />
+<img width="1331" height="875" alt="Preview_2" src="https://github.com/user-attachments/assets/72572804-f7be-4623-bda1-6fabdd6b346e" />
 
 # Installation
 1. Clone the repository
