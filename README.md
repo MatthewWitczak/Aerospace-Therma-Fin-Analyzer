@@ -1,4 +1,3 @@
-Tak zrobiłem ostatecznie:
 # Overview
 The application is a 1D thermal analysis tool for cooling fins. It numerically solves the steady-state heat conduction equation with convection along a fin, using a finite-difference method. The solver computes the temperature distribution along the fin and visualizes it as a plot. The tool demonstrates the principles of heat conduction–convection coupling, fin efficiency, and the impact of material and design choices on thermal performance.
 
@@ -25,6 +24,18 @@ The application is a 1D thermal analysis tool for cooling fins. It numerically s
 
 3. Run the app
 - python Aerospace_Thermal_Fin_Analyzer.py
+
+# Building a macOS app
+1. Open Terminal
+2. Go to the folder where the Aerospace_Thermal_Fin_Analyzer.py file is located
+3. Create venv
+- python3 -m venv .venv
+- source .venv/bin/activate
+- pip install --upgrade pip
+4. Install PyInstaller
+- pip install pyinstaller
+5. Build .app
+- pyinstaller --name "Aerospace_Thermal_Fin_Analyzer" --windowed --onefile Aerospace_Thermal_Fin_Analyzer.py
 
 # License
 MIT License – feel free to use, modify, and share.
